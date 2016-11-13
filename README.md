@@ -1,0 +1,2 @@
+# newlife
+prog lang
